@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Feed traduzido - ResenhaCyber</title><link>https://www.linkedin.com/company/resenhacyber</link><description>Notícias de cibersegurança traduzidas automaticamente.</description><atom:link href="https://www.linkedin.com/company/resenhacyber" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 22 Mar 2025 01:01:29 +0000</lastBuildDate><item><title>📊 Relatório Ransomware Brasil - Atualização automática</title><link>https://ransomware.live</link><description>🚨 Relatório de Ransomware no Brasil:
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Feed traduzido - ResenhaCyber</title><link>https://www.linkedin.com/company/resenhacyber</link><description>Notícias de cibersegurança traduzidas automaticamente.</description><atom:link href="https://www.linkedin.com/company/resenhacyber" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 22 Mar 2025 01:06:11 +0000</lastBuildDate><item><title>🚨 Novo Ataque de Ransomware: Prefeitura Municipal de Palmeira</title><link>https://arede.info/campos-gerais/563667/servico-de-e-mail-institucional-da-prefeitura-de-palmeira-sofre-ataque-cibernetico</link><description>🚨 Ataque de Ransomware no Brasil:
 
-📌 Total de ataques registrados: 47
-🧬 Família mais recente: Desconhecida
-🏢 Setor visado: Desconhecido
-🏭 Empresa alvo: Não divulgado
-📅 Último ataque registrado: 2025-03-12
+🏛️ Vítima: Prefeitura Municipal de Palmeira
+📅 Data do ataque: 2025-03-12
+🌐 Domínio: palmeira.pr.gov.br
+📰 Título original: Serviço de e-mail institucional da Prefeitura de Palmeira sofre ataque cibernético | aRede
+
+📄 Resumo traduzido:
+A prefeitura de Palmeira foi vítima de um ataque cibernético do tipo ransomware que tornou indisponível seu serviço de mensagens institucionais hospedado pela GMAES Telecom Ltda. A empresa responsável está trabalhando para recuperar serviços, mas a padronização é atrasada devido à complexidade do caso. O incidente foi relatado à denúncia contra os crimes da Internet (IC3) vinculados ao FBI para investigação.
+
+🔗 Fonte: https://arede.info/campos-gerais/563667/servico-de-e-mail-institucional-da-prefeitura-de-palmeira-sofre-ataque-cibernetico
 
 #resenhainforma #ransomwareBR #ResenhacyberGD #RedTeam #BlueTeam
 
-Siga https://www.linkedin.com/company/resenhacyber pra mais</description><pubDate>Fri, 21 Mar 2025 22:01:37 +0000</pubDate></item><item><title>Brian Cox para discutir o impacto da computação quântica no InfoseSecurity Europe 2025</title><link>https://www.infosecurity-magazine.com/news/brian-cox-quantum-infosecurity/</link><description>🔒 Brian Cox para discutir o impacto da computação quântica no InfoseSecurity Europe 2025
+Siga https://www.linkedin.com/company/resenhacyber pra mais</description><pubDate>Fri, 21 Mar 2025 22:06:22 +0000</pubDate></item><item><title>Brian Cox para discutir o impacto da computação quântica no InfoseSecurity Europe 2025</title><link>https://www.infosecurity-magazine.com/news/brian-cox-quantum-infosecurity/</link><description>🔒 Brian Cox para discutir o impacto da computação quântica no InfoseSecurity Europe 2025
 
 📄 O físico de renome mundial, o professor Brian Cox, encabeçará o primeiro dia da Europa de Infosegurança, analisando a ciência por trás da computação quântica e os desafios que ela traz
 
