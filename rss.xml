@@ -1,2 +1,91 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Feed traduzido - ResenhaCyber</title><link>https://www.linkedin.com/company/resenhacyber</link><description>Notícias de cibersegurança traduzidas automaticamente.</description><atom:link href="https://www.linkedin.com/company/resenhacyber" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 22 Mar 2025 03:16:04 +0000</lastBuildDate></channel></rss>
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<channel>
+<link>https://www.infosecurity-magazine.com/news/</link>
+<copyright>Copyright © 2025 Reed Exhibitions Ltd. All Rights Reserved.</copyright>
+<item>
+<title>Albabat Ransomware Evolves to Target Linux and macOS</title>
+<link>https://www.infosecurity-magazine.com/news/albabat-ransomware-linux-macos/</link>
+<description>Trend Micro observed a continuous development of Albabat ransomware, designed to expand attacks and streamline operations</description>
+<pubDate>Fri, 21 Mar 2025 14:30:00 GMT</pubDate>
+<guid isPermaLink="true">https://www.infosecurity-magazine.com/news/albabat-ransomware-linux-macos/</guid>
+</item>
+<item>
+<title>Cybercriminals Exploit CheckPoint Antivirus Driver in Malicious Campaign</title>
+<link>https://www.infosecurity-magazine.com/news/cybercriminals-exploit-checkpoint/</link>
+<description>A security researcher has observed threat actors exploiting vulnerabilities in a driver used by CheckPoint’s ZoneAlarm antivirus to bypass Windows security measures</description>
+<pubDate>Fri, 21 Mar 2025 12:45:00 GMT</pubDate>
+<guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cybercriminals-exploit-checkpoint/</guid>
+</item>
+<item>
+<title>Attackers Use Fake CAPTCHAs to Deploy Lumma Stealer RAT</title>
+<link>https://www.infosecurity-magazine.com/news/attackers-fake-captchas-lumma/</link>
+<description>Attackers are exploiting user familiarity with CAPTCHAs to distribute the Lumma Stealer RAT via malicious PowerShell commands, according to HP</description>
+<pubDate>Fri, 21 Mar 2025 11:40:00 GMT</pubDate>
+<guid isPermaLink="true">https://www.infosecurity-magazine.com/news/attackers-fake-captchas-lumma/</guid>
+</item>
+<item>
+<title>FishMonger APT Group Linked to I-SOON in Espionage Campaigns</title>
+<link>https://www.infosecurity-magazine.com/news/fishmonger-apt-group-linked-isoon/</link>
+<description>The FishMonger APT Group has been linked with I-SOON, targeting governments, NGOs and think tanks in cyber-espionage campaigns</description>
+<pubDate>Thu, 20 Mar 2025 16:30:00 GMT</pubDate>
+<guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fishmonger-apt-group-linked-isoon/</guid>
+</item>
+<item>
+<title>Rooted Devices 250 Times More Vulnerable to Compromise</title>
+<link>https://www.infosecurity-magazine.com/news/rooted-devices-250x-vulnerable/</link>
+<description>Rooted devices are 250 times more vulnerable to security incidents, Zimperium warned</description>
+<pubDate>Thu, 20 Mar 2025 14:00:00 GMT</pubDate>
+<guid isPermaLink="true">https://www.infosecurity-magazine.com/news/rooted-devices-250x-vulnerable/</guid>
+</item>
+<item>
+<title>UK CNI Security Leaders Express Confidence in Cybersecurity, Despite 95% Breach Rate</title>
+<link>https://www.infosecurity-magazine.com/news/uk-cni-survey-bridewell-cyber/</link>
+<description>Bridewell has released its annual report on critical infrastructure security leaders’ perceived cybersecurity maturity and threats</description>
+<pubDate>Thu, 20 Mar 2025 12:00:00 GMT</pubDate>
+<guid isPermaLink="true">https://www.infosecurity-magazine.com/news/uk-cni-survey-bridewell-cyber/</guid>
+</item>
+<item>
+<title>UK Police Arrest 422 in Major Fraud Crackdown</title>
+<link>https://www.infosecurity-magazine.com/news/uk-police-arrest-422-major-fraud/</link>
+<description>February’s Operation Henhouse resulted in hundreds of arrests and the seizure of £7.5m</description>
+<pubDate>Thu, 20 Mar 2025 10:30:00 GMT</pubDate>
+<guid isPermaLink="true">https://www.infosecurity-magazine.com/news/uk-police-arrest-422-major-fraud/</guid>
+</item>
+<item>
+<title>Over Half a Million Hit by Pennsylvania Schools Union Breach</title>
+<link>https://www.infosecurity-magazine.com/news/half-million-hit-pennsylvania/</link>
+<description>The Pennsylvania State Education Association (PSEA) has sent breach notifications to over 500,000 current and former members</description>
+<pubDate>Thu, 20 Mar 2025 09:45:00 GMT</pubDate>
+<guid isPermaLink="true">https://www.infosecurity-magazine.com/news/half-million-hit-pennsylvania/</guid>
+</item>
+<item>
+<title>NCSC Sets 2035 Deadline for Post-Quantum Cryptography Migration </title>
+<link>https://www.infosecurity-magazine.com/news/ncsc-post-quantum-cryptography/</link>
+<description>New NCSC guidance sets out a three-phase migration to post-quantum cryptography, designed to ensure all systems are protected from quantum attacks by 2035</description>
+<pubDate>Thu, 20 Mar 2025 08:30:00 GMT</pubDate>
+<guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ncsc-post-quantum-cryptography/</guid>
+</item>
+<item>
+<title>Windows Shortcut Flaw Exploited by 11 State-Sponsored Groups</title>
+<link>https://www.infosecurity-magazine.com/news/zdican25373-exploited-state/</link>
+<description>Newly discovered vulnerability ZDI-CAN-25373 takes advantage of Windows shortcuts has been exploited by 11 state-sponsored groups since 2017</description>
+<pubDate>Wed, 19 Mar 2025 16:30:00 GMT</pubDate>
+<guid isPermaLink="true">https://www.infosecurity-magazine.com/news/zdican25373-exploited-state/</guid>
+</item>
+<item>
+<title>752,000 Browser Phishing Attacks Mark 140% Increase YoY</title>
+<link>https://www.infosecurity-magazine.com/news/752000-browser-phishing-attacks/</link>
+<description>A surge in browser-based phishing attacks has been recorded over the past year, with a 140% increase compared to 2023 according to Menlo Security</description>
+<pubDate>Wed, 19 Mar 2025 14:00:00 GMT</pubDate>
+<guid isPermaLink="true">https://www.infosecurity-magazine.com/news/752000-browser-phishing-attacks/</guid>
+</item>
+<item>
+<title>Brian Cox to Discuss Quantum Computing's Impact at Infosecurity Europe 2025</title>
+<link>https://www.infosecurity-magazine.com/news/brian-cox-quantum-infosecurity/</link>
+<description>World-renowned physicist, Professor Brian Cox, will headline day one of Infosecurity Europe, analyzing the science behind quantum computing and the challenges it brings</description>
+<pubDate>Wed, 19 Mar 2025 12:00:00 GMT</pubDate>
+<guid isPermaLink="true">https://www.infosecurity-magazine.com/news/brian-cox-quantum-infosecurity/</guid>
+</item>
+</channel>
+</rss>
