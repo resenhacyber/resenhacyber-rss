@@ -1,21 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Feed traduzido - ResenhaCyber</title><link>https://www.linkedin.com/company/resenhacyber</link><description>Notícias de cibersegurança traduzidas automaticamente.</description><atom:link href="https://www.linkedin.com/company/resenhacyber" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 15 May 2025 12:01:29 +0000</lastBuildDate><item><title>O banco de dados europeu de vulnerabilidades é lançado em meio a um caos CVE nos EUA</title><link>https://www.infosecurity-magazine.com/news/european-vulnerability-database-us/</link><description>
-    🔒 O banco de dados europeu de vulnerabilidades é lançado em meio a um caos CVE nos EUA
-    
-    📄 A ENISA lançou oficialmente o banco de dados europeu de vulnerabilidade, conforme exigido pela Diretiva NIS2
-    
-    #cibersegurança #infosec #notícias #resenhacyber
-    
-    Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Thu, 15 May 2025 09:01:34 +0000</pubDate></item><item><title>CISA Shifts Alert Distribution Strategy to Email, mídia social</title><link>https://www.infosecurity-magazine.com/news/cisa-alert-strategy-email-social/</link><description>
-    🔒 CISA Shifts Alert Distribution Strategy to Email, mídia social
-    
-    📄 A CISA não postará atualizações padrão de segurança cibernética em seu site, mudando para email e mídia social
-    
-    #cibersegurança #infosec #notícias #resenhacyber
-    
-    Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Thu, 15 May 2025 09:01:34 +0000</pubDate></item><item><title>TA406 apoiado pela DPRC-alvo da Ucrânia com campanhas de malware</title><link>https://www.infosecurity-magazine.com/news/dprk-backed-ta406-targets-ukraine/</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Feed traduzido - ResenhaCyber</title><link>https://www.linkedin.com/company/resenhacyber</link><description>Notícias de cibersegurança traduzidas automaticamente.</description><atom:link href="https://www.linkedin.com/company/resenhacyber" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 15 May 2025 13:01:32 +0000</lastBuildDate><item><title>TA406 apoiado pela DPRC-alvo da Ucrânia com campanhas de malware</title><link>https://www.infosecurity-magazine.com/news/dprk-backed-ta406-targets-ukraine/</link><description>
     🔒 TA406 apoiado pela DPRC-alvo da Ucrânia com campanhas de malware
     
     📄 Campanha de espionagem cibernética ligada ao ator norte -coreano TA406 entidades do governo ucraniano direcionadas
@@ -23,7 +7,7 @@
     #cibersegurança #infosec #notícias #resenhacyber
     
     Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Thu, 15 May 2025 09:01:34 +0000</pubDate></item><item><title>Hackers alinhados à Turquia direcionaram curdos baseados no Iraque com exploração de dia zero</title><link>https://www.infosecurity-magazine.com/news/turkey-hackers-iraq-kurds-zero-day/</link><description>
+    </description><pubDate>Thu, 15 May 2025 10:01:41 +0000</pubDate></item><item><title>Hackers alinhados à Turquia direcionaram curdos baseados no Iraque com exploração de dia zero</title><link>https://www.infosecurity-magazine.com/news/turkey-hackers-iraq-kurds-zero-day/</link><description>
     🔒 Hackers alinhados à Turquia direcionaram curdos baseados no Iraque com exploração de dia zero
     
     📄 O pó de mármore vem explorando uma vulnerabilidade em contas de usuário associadas às forças armadas curdas que operam no Iraque há mais de um ano, de acordo com a Microsoft
@@ -31,7 +15,7 @@
     #cibersegurança #infosec #notícias #resenhacyber
     
     Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Thu, 15 May 2025 09:01:33 +0000</pubDate></item><item><title>A Microsoft corrige sete zero dias em maio Patch terça-feira</title><link>https://www.infosecurity-magazine.com/news/microsoft-seven-zerodays-may-patch/</link><description>
+    </description><pubDate>Thu, 15 May 2025 10:01:41 +0000</pubDate></item><item><title>A Microsoft corrige sete zero dias em maio Patch terça-feira</title><link>https://www.infosecurity-magazine.com/news/microsoft-seven-zerodays-may-patch/</link><description>
     🔒 A Microsoft corrige sete zero dias em maio Patch terça-feira
     
     📄 A Microsoft corrigiu sete insetos de dia zero, cinco dos quais foram explorados na natureza
@@ -39,7 +23,7 @@
     #cibersegurança #infosec #notícias #resenhacyber
     
     Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Thu, 15 May 2025 09:01:33 +0000</pubDate></item><item><title>Polícia Européia Busto de € 3 milhões de investimentos anel de fraude</title><link>https://www.infosecurity-magazine.com/news/european-police-bust-3m-investment/</link><description>
+    </description><pubDate>Thu, 15 May 2025 10:01:41 +0000</pubDate></item><item><title>Polícia Européia Busto de € 3 milhões de investimentos anel de fraude</title><link>https://www.infosecurity-magazine.com/news/european-police-bust-3m-investment/</link><description>
     🔒 Polícia Européia Busto de € 3 milhões de investimentos anel de fraude
     
     📄 Os agentes da lei de vários países se juntam para desmantelar uma gangue de fraude multimilionário-euro
@@ -47,7 +31,7 @@
     #cibersegurança #infosec #notícias #resenhacyber
     
     Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Thu, 15 May 2025 09:01:32 +0000</pubDate></item><item><title>Novas 'Chihuahua' Infotealer direciona dados do navegador e extensões de carteira de criptografia</title><link>https://www.infosecurity-magazine.com/news/chihuahua-stealer-browser-crypto/</link><description>
+    </description><pubDate>Thu, 15 May 2025 10:01:40 +0000</pubDate></item><item><title>Novas 'Chihuahua' Infotealer direciona dados do navegador e extensões de carteira de criptografia</title><link>https://www.infosecurity-magazine.com/news/chihuahua-stealer-browser-crypto/</link><description>
     🔒 Novas 'Chihuahua' Infotealer direciona dados do navegador e extensões de carteira de criptografia
     
     📄 Embora pareça não sofisticada na superfície, o ladrão de Chihuahua usa métodos avançados
@@ -55,7 +39,7 @@
     #cibersegurança #infosec #notícias #resenhacyber
     
     Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Thu, 15 May 2025 09:01:32 +0000</pubDate></item><item><title>New Fortinet e Ivanti Zero dias explorados na natureza</title><link>https://www.infosecurity-magazine.com/news/fortinet-ivanti-zero-days/</link><description>
+    </description><pubDate>Thu, 15 May 2025 10:01:40 +0000</pubDate></item><item><title>New Fortinet e Ivanti Zero dias explorados na natureza</title><link>https://www.infosecurity-magazine.com/news/fortinet-ivanti-zero-days/</link><description>
     🔒 New Fortinet e Ivanti Zero dias explorados na natureza
     
     📄 Fortinet e Ivanti publicaram avisos no mesmo dia, revelando que os atacantes estão explorando novos dias zero, um dos quais é classificado como crítico
@@ -63,7 +47,7 @@
     #cibersegurança #infosec #notícias #resenhacyber
     
     Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Thu, 15 May 2025 09:01:32 +0000</pubDate></item><item><title>A CISA reverte a decisão sobre mudanças de consultoria em segurança cibernética</title><link>https://www.infosecurity-magazine.com/news/cisa-reverses-decision-advisory/</link><description>
+    </description><pubDate>Thu, 15 May 2025 10:01:39 +0000</pubDate></item><item><title>A CISA reverte a decisão sobre mudanças de consultoria em segurança cibernética</title><link>https://www.infosecurity-magazine.com/news/cisa-reverses-decision-advisory/</link><description>
     🔒 A CISA reverte a decisão sobre mudanças de consultoria em segurança cibernética
     
     📄 A CISA parou os planos de revisar seu sistema consultivo após reação da comunidade Infosec
@@ -71,7 +55,7 @@
     #cibersegurança #infosec #notícias #resenhacyber
     
     Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Thu, 15 May 2025 09:01:31 +0000</pubDate></item><item><title>Android Enterprise inicia a confiança do dispositivo para segurança aprimorada</title><link>https://www.infosecurity-magazine.com/news/android-enterprise-launches-device/</link><description>
+    </description><pubDate>Thu, 15 May 2025 10:01:39 +0000</pubDate></item><item><title>Android Enterprise inicia a confiança do dispositivo para segurança aprimorada</title><link>https://www.infosecurity-magazine.com/news/android-enterprise-launches-device/</link><description>
     🔒 Android Enterprise inicia a confiança do dispositivo para segurança aprimorada
     
     📄 A Android Enterprise introduziu a confiança do dispositivo para aprimorar a segurança móvel em dispositivos Android
@@ -79,7 +63,7 @@
     #cibersegurança #infosec #notícias #resenhacyber
     
     Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Thu, 15 May 2025 09:01:31 +0000</pubDate></item><item><title>#Infosec2025: Ransomware entra no 'ecossistema pós-confiança', diz a NCA Cyber ​​Expert</title><link>https://www.infosecurity-magazine.com/news/ransomware-enters-posttrust/</link><description>
+    </description><pubDate>Thu, 15 May 2025 10:01:39 +0000</pubDate></item><item><title>#Infosec2025: Ransomware entra no 'ecossistema pós-confiança', diz a NCA Cyber ​​Expert</title><link>https://www.infosecurity-magazine.com/news/ransomware-enters-posttrust/</link><description>
     🔒 #Infosec2025: Ransomware entra no 'ecossistema pós-confiança', diz a NCA Cyber ​​Expert
     
     📄 A paisagem de ransomware é mais fragmentada do que nunca, sem "líder de mercado", diz William Lyne, chefe de inteligência da NCA
@@ -87,7 +71,7 @@
     #cibersegurança #infosec #notícias #resenhacyber
     
     Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Thu, 15 May 2025 09:01:31 +0000</pubDate></item><item><title>As perdas de fraude atingiram US $ 11 milhões por empresa, à medida que o abuso de clientes aumenta</title><link>https://www.infosecurity-magazine.com/news/fraud-losses-11m-customer-abuse/</link><description>
+    </description><pubDate>Thu, 15 May 2025 10:01:38 +0000</pubDate></item><item><title>As perdas de fraude atingiram US $ 11 milhões por empresa, à medida que o abuso de clientes aumenta</title><link>https://www.infosecurity-magazine.com/news/fraud-losses-11m-customer-abuse/</link><description>
     🔒 As perdas de fraude atingiram US $ 11 milhões por empresa, à medida que o abuso de clientes aumenta
     
     📄 A maioria dos comerciantes on -line agora acredita que os clientes representam uma ameaça tão grande quanto os fraudadores profissionais
@@ -95,4 +79,20 @@
     #cibersegurança #infosec #notícias #resenhacyber
     
     Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Thu, 15 May 2025 09:01:30 +0000</pubDate></item></channel></rss>
+    </description><pubDate>Thu, 15 May 2025 10:01:38 +0000</pubDate></item><item><title>O ransomware "endêmico" leva o NHS a exigir ação do fornecedor na segurança cibernética</title><link>https://www.infosecurity-magazine.com/news/endemic-ransomware-nhs-supplier/</link><description>
+    🔒 O ransomware "endêmico" leva o NHS a exigir ação do fornecedor na segurança cibernética
+    
+    📄 A Carta voluntária de segurança cibernética pede aos fornecedores do NHS que se comprometam com oito promessas de segurança cibernética, em meio a ataques crescentes à saúde
+    
+    #cibersegurança #infosec #notícias #resenhacyber
+    
+    Siga https://www.linkedin.com/company/resenhacyber pra mais
+    </description><pubDate>Thu, 15 May 2025 10:01:36 +0000</pubDate></item><item><title>Novas vulnerabilidades Linux surgem 967% em um ano</title><link>https://www.infosecurity-magazine.com/news/new-linux-vulnerabilities-surge/</link><description>
+    🔒 Novas vulnerabilidades Linux surgem 967% em um ano
+    
+    📄 Pesquisadores descobriram mais de 3000 vulnerabilidades Linux em 2024, a maioria de qualquer categoria
+    
+    #cibersegurança #infosec #notícias #resenhacyber
+    
+    Siga https://www.linkedin.com/company/resenhacyber pra mais
+    </description><pubDate>Thu, 15 May 2025 10:01:35 +0000</pubDate></item></channel></rss>
