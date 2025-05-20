@@ -1,77 +1,83 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Feed traduzido - ResenhaCyber</title><link>https://www.linkedin.com/company/resenhacyber</link><description>Notícias de cibersegurança traduzidas automaticamente.</description><atom:link href="https://www.linkedin.com/company/resenhacyber" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 20 May 2025 14:30:52 +0000</lastBuildDate><item><title>UK Cyber Vacancies Growing 12% Per Year</title><link>https://www.infosecurity-magazine.com/news/uk-cyber-vacancies-growing-year/</link><description>
-    🔒 UK Cyber Vacancies Growing 12% Per Year
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Feed traduzido - ResenhaCyber</title><link>https://www.linkedin.com/company/resenhacyber</link><description>Notícias de cibersegurança traduzidas automaticamente.</description><atom:link href="https://www.linkedin.com/company/resenhacyber" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 20 May 2025 15:01:30 +0000</lastBuildDate><item><title>🌍 Ransomware Global: Kettering Health</title><link>https://dayton247now.com/news/local/system-wide-cyberattack-forces-kettering-health-to-cancel-procedures-call-center-down</link><description>🌍 Ataque de Ransomware Global
+
+🏛️ Vítima: Kettering Health
+📅 Data do ataque: 20/05/2025
+📰 Título: System-wide cyberattack forces Kettering Health to cancel procedures, call center down
+🌐 Domínio: ketteringhealth.org
+
+📄 Resumo:
+A Kettering Health passou por um ataque de computador que causou um colapso tecnológico generalizado, os procedimentos eletivos foram cancelados para o dia. As salas de emergência e as clínicas permanecem abertas e continuam a tratar os pacientes. O hospital trabalha com uma terceira organização para resolver rapidamente esse problema e restaurar seus sistemas.
+
+🔗 Fonte: https://dayton247now.com/news/local/system-wide-cyberattack-forces-kettering-health-to-cancel-procedures-call-center-down
+
+#resenhainforma #ransomware #ResenhacyberGD #RedTeam #BlueTeam
+
+Siga https://www.linkedin.com/company/resenhacyber pra mais</description><pubDate>Tue, 20 May 2025 12:02:00 +0000</pubDate></item><item><title>Funcionários dos EUA representados por SMS e Voice DeepFakes</title><link>https://www.infosecurity-magazine.com/news/us-officials-impersonated-sms/</link><description>
+    🔒 Funcionários dos EUA representados por SMS e Voice DeepFakes
     
-    📄 An analysis by Robert Walters found there are around 17,000 cybersecurity vacancies in the UK currently, with organizations struggling to fill open positions
-    
-    #cibersegurança #infosec #notícias #resenhacyber
-    
-    Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Tue, 20 May 2025 11:30:58 +0000</pubDate></item><item><title>US Officials Impersonated Via SMS and Voice Deepfakes</title><link>https://www.infosecurity-magazine.com/news/us-officials-impersonated-sms/</link><description>
-    🔒 US Officials Impersonated Via SMS and Voice Deepfakes
-    
-    📄 The FBI has warned about an ongoing smishing and vishing scheme using AI deepfakes to impersonate US officials
-    
-    #cibersegurança #infosec #notícias #resenhacyber
-    
-    Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Tue, 20 May 2025 11:30:58 +0000</pubDate></item><item><title>#Infosec2025: How CISOs Can Stay Ahead of Evolving Cloud Threats</title><link>https://www.infosecurity-magazine.com/news/infosec2025-cisos-evolving-cloud/</link><description>
-    🔒 #Infosec2025: How CISOs Can Stay Ahead of Evolving Cloud Threats
-    
-    📄 Security experts tell Infosecurity about the cloud attack trends in the past year, and how CISOs can mitigate evolving techniques
+    📄 O FBI alertou sobre um esquema de Smishing e Vising em andamento usando a IA DeepFakes para personificar os funcionários dos EUA
     
     #cibersegurança #infosec #notícias #resenhacyber
     
     Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Tue, 20 May 2025 11:30:58 +0000</pubDate></item><item><title>Legal Aid Agency Admits Major Breach of Applicant Data</title><link>https://www.infosecurity-magazine.com/news/legal-aid-agency-admits-major/</link><description>
-    🔒 Legal Aid Agency Admits Major Breach of Applicant Data
+    </description><pubDate>Tue, 20 May 2025 12:01:39 +0000</pubDate></item><item><title>#INFOSEC2025: Como os CISOs podem ficar à frente da evolução das ameaças em nuvem</title><link>https://www.infosecurity-magazine.com/news/infosec2025-cisos-evolving-cloud/</link><description>
+    🔒 #INFOSEC2025: Como os CISOs podem ficar à frente da evolução das ameaças em nuvem
     
-    📄 The UK government says that hackers accessed a “large amount” of personal information in attack on Legal Aid Agency
-    
-    #cibersegurança #infosec #notícias #resenhacyber
-    
-    Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Tue, 20 May 2025 11:30:58 +0000</pubDate></item><item><title>SEC SIM Swapper Gets 14 Months for X Account Hijack</title><link>https://www.infosecurity-magazine.com/news/sec-sim-swapper-14-months-x/</link><description>
-    🔒 SEC SIM Swapper Gets 14 Months for X Account Hijack
-    
-    📄 An Alabama man has been sentenced to 14 months for hacking the SEC’s X account
+    📄 Especialistas em segurança dizem à infecção sobre as tendências de ataques em nuvem no ano passado e como os CISOs podem mitigar técnicas em evolução
     
     #cibersegurança #infosec #notícias #resenhacyber
     
     Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Tue, 20 May 2025 11:30:58 +0000</pubDate></item><item><title>GDPR Changes Risk Undermining its Principles, Civil Society Groups Warn</title><link>https://www.infosecurity-magazine.com/news/civil-society-defends-gdpr-data/</link><description>
-    🔒 GDPR Changes Risk Undermining its Principles, Civil Society Groups Warn
+    </description><pubDate>Tue, 20 May 2025 12:01:39 +0000</pubDate></item><item><title>A Agência de Assistência Jurídica admite grande violação dos dados dos candidatos</title><link>https://www.infosecurity-magazine.com/news/legal-aid-agency-admits-major/</link><description>
+    🔒 A Agência de Assistência Jurídica admite grande violação dos dados dos candidatos
     
-    📄 Civil society groups and academics are calling for the EU's GDPR to remain unchanged following the EU Commission's plans to revisit it
-    
-    #cibersegurança #infosec #notícias #resenhacyber
-    
-    Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Tue, 20 May 2025 11:30:58 +0000</pubDate></item><item><title>RCE Vulnerability Found in RomethemeKit For Elementor Plugin</title><link>https://www.infosecurity-magazine.com/news/rce-vulnerability-in-romethemekit/</link><description>
-    🔒 RCE Vulnerability Found in RomethemeKit For Elementor Plugin
-    
-    📄 RomethemeKit for Elementor has released a patch addressing an RCE vulnerability exposing 30,000 sites
+    📄 O governo do Reino Unido diz que os hackers acessaram uma "grande quantidade" de informações pessoais em ataques à agência de assistência jurídica
     
     #cibersegurança #infosec #notícias #resenhacyber
     
     Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Tue, 20 May 2025 11:30:58 +0000</pubDate></item><item><title>New Malware on PyPI Poses Threat to Open-Source Developers</title><link>https://www.infosecurity-magazine.com/news/malware-pypi-threat-open-source/</link><description>
-    🔒 New Malware on PyPI Poses Threat to Open-Source Developers
+    </description><pubDate>Tue, 20 May 2025 12:01:38 +0000</pubDate></item><item><title>SecAp Swapper recebe 14 meses para x seqüestro de conta</title><link>https://www.infosecurity-magazine.com/news/sec-sim-swapper-14-months-x/</link><description>
+    🔒 SecAp Swapper recebe 14 meses para x seqüestro de conta
     
-    📄 Malicious dbgpkg package on PyPI poses as a debugging utility but acts as a delivery mechanism for a stealthy backdoor
+    📄 Um homem do Alabama foi condenado a 14 meses por hackear a conta X da SEC
     
     #cibersegurança #infosec #notícias #resenhacyber
     
     Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Tue, 20 May 2025 11:30:58 +0000</pubDate></item><item><title>O novo comprador 23andme Regeneron promete priorizar a segurança</title><link>https://www.infosecurity-magazine.com/news/23andme-buyer-regeneron-prioritize/</link><description>
+    </description><pubDate>Tue, 20 May 2025 12:01:38 +0000</pubDate></item><item><title>Mudanças do GDPR Risco minar seus princípios, os grupos da sociedade civil alertam</title><link>https://www.infosecurity-magazine.com/news/civil-society-defends-gdpr-data/</link><description>
+    🔒 Mudanças do GDPR Risco minar seus princípios, os grupos da sociedade civil alertam
+    
+    📄 Grupos e acadêmicos da sociedade civil estão pedindo que o GDPR da UE permaneça inalterado seguindo os planos da Comissão da UE de revisitá -lo
+    
+    #cibersegurança #infosec #notícias #resenhacyber
+    
+    Siga https://www.linkedin.com/company/resenhacyber pra mais
+    </description><pubDate>Tue, 20 May 2025 12:01:37 +0000</pubDate></item><item><title>Vulnerabilidade RCE Encontrada em Romethemekit para Plugin Elementor</title><link>https://www.infosecurity-magazine.com/news/rce-vulnerability-in-romethemekit/</link><description>
+    🔒 Vulnerabilidade RCE Encontrada em Romethemekit para Plugin Elementor
+    
+    📄 Romethemekit para Elementor lançou um patch abordando uma vulnerabilidade RCE expondo 30.000 sites
+    
+    #cibersegurança #infosec #notícias #resenhacyber
+    
+    Siga https://www.linkedin.com/company/resenhacyber pra mais
+    </description><pubDate>Tue, 20 May 2025 12:01:36 +0000</pubDate></item><item><title>Novos malware em Pypi representam ameaças a desenvolvedores de código aberto</title><link>https://www.infosecurity-magazine.com/news/malware-pypi-threat-open-source/</link><description>
+    🔒 Novos malware em Pypi representam ameaças a desenvolvedores de código aberto
+    
+    📄 O pacote malicioso DBGPKG em Pypi posa como um utilitário de depuração, mas atua como um mecanismo de entrega para um backdoor furtivo
+    
+    #cibersegurança #infosec #notícias #resenhacyber
+    
+    Siga https://www.linkedin.com/company/resenhacyber pra mais
+    </description><pubDate>Tue, 20 May 2025 12:01:35 +0000</pubDate></item><item><title>O novo comprador 23andme Regeneron promete priorizar a segurança</title><link>https://www.infosecurity-magazine.com/news/23andme-buyer-regeneron-prioritize/</link><description>
     🔒 O novo comprador 23andme Regeneron promete priorizar a segurança
     
-    📄 Regeneron, which intends to acquire 23andMe for $256m, says data security and privacy will be a priority
+    📄 Regeneron, que pretende adquirir 23andme por US $ 256 milhões, diz que a segurança e a privacidade dos dados serão uma prioridade
     
     #cibersegurança #infosec #notícias #resenhacyber
     
     Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Tue, 20 May 2025 11:30:58 +0000</pubDate></item><item><title>Metade dos consumidores direcionados por anúncios de fraude de mídia social</title><link>https://www.infosecurity-magazine.com/news/half-consumers-targeted-social/</link><description>
+    </description><pubDate>Tue, 20 May 2025 12:01:34 +0000</pubDate></item><item><title>Metade dos consumidores direcionados por anúncios de fraude de mídia social</title><link>https://www.infosecurity-magazine.com/news/half-consumers-targeted-social/</link><description>
     🔒 Metade dos consumidores direcionados por anúncios de fraude de mídia social
     
     📄 Cerca de metade de nós e consumidores do Reino Unido viram anúncios de fraude e conteúdo em 'hacks de reembolso' nas mídias sociais
@@ -79,7 +85,7 @@
     #cibersegurança #infosec #notícias #resenhacyber
     
     Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Tue, 20 May 2025 11:30:56 +0000</pubDate></item><item><title>Riscos cibernéticos de montagem Genai estimular o investimento em segurança de IA</title><link>https://www.infosecurity-magazine.com/news/genai-cyber-risks-investment/</link><description>
+    </description><pubDate>Tue, 20 May 2025 12:01:34 +0000</pubDate></item><item><title>Riscos cibernéticos de montagem Genai estimular o investimento em segurança de IA</title><link>https://www.infosecurity-magazine.com/news/genai-cyber-risks-investment/</link><description>
     🔒 Riscos cibernéticos de montagem Genai estimular o investimento em segurança de IA
     
     📄 Thales descobriu que 73% das organizações estão investindo em ferramentas de segurança específicas da IA, em meio a uma subida crescente de ferramentas genai nas empresas
@@ -87,7 +93,7 @@
     #cibersegurança #infosec #notícias #resenhacyber
     
     Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Tue, 20 May 2025 11:30:55 +0000</pubDate></item><item><title>Grupos APT russos intensificam ataques na Europa com explorações e limpadores de dia zero</title><link>https://www.infosecurity-magazine.com/news/russian-apt-intensify-cyber/</link><description>
+    </description><pubDate>Tue, 20 May 2025 12:01:33 +0000</pubDate></item><item><title>Grupos APT russos intensificam ataques na Europa com explorações e limpadores de dia zero</title><link>https://www.infosecurity-magazine.com/news/russian-apt-intensify-cyber/</link><description>
     🔒 Grupos APT russos intensificam ataques na Europa com explorações e limpadores de dia zero
     
     📄 Pesquisadores da ESET observados fortaleciam atividades ofensivas cibernéticas de grupos russos, especialmente contra entidades ucranianas e européias
@@ -95,4 +101,12 @@
     #cibersegurança #infosec #notícias #resenhacyber
     
     Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Tue, 20 May 2025 11:30:53 +0000</pubDate></item></channel></rss>
+    </description><pubDate>Tue, 20 May 2025 12:01:33 +0000</pubDate></item><item><title>A violação de dados do cobrador de dívidas afeta 200.000 pacientes da clínica Harbin</title><link>https://www.infosecurity-magazine.com/news/debt-collector-breach-affects/</link><description>
+    🔒 A violação de dados do cobrador de dívidas afeta 200.000 pacientes da clínica Harbin
+    
+    📄 Uma violação de dados nos serviços de recuperação em todo o país comprometiu dados de 200.000 pacientes da clínica de Harbin
+    
+    #cibersegurança #infosec #notícias #resenhacyber
+    
+    Siga https://www.linkedin.com/company/resenhacyber pra mais
+    </description><pubDate>Tue, 20 May 2025 12:01:32 +0000</pubDate></item></channel></rss>
