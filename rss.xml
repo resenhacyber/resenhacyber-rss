@@ -1,98 +1,112 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Feed traduzido - ResenhaCyber</title><link>https://www.linkedin.com/company/resenhacyber</link><description>Notícias de cibersegurança traduzidas automaticamente.</description><atom:link href="https://www.linkedin.com/company/resenhacyber" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 03 Jun 2025 21:01:38 +0000</lastBuildDate><item><title>Acreed surge como ameaça dominante no Infotealer após a queda de Lumma</title><link>https://www.infosecurity-magazine.com/news/acreed-dominant-infostealer-lumma/</link><description>
-    🔒 Acreed surge como ameaça dominante no Infotealer após a queda de Lumma
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Feed traduzido - ResenhaCyber</title><link>https://www.linkedin.com/company/resenhacyber</link><description>Notícias de cibersegurança traduzidas automaticamente.</description><atom:link href="https://www.linkedin.com/company/resenhacyber" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 05 Jun 2025 17:01:30 +0000</lastBuildDate><item><title>🚨 Ransomware no Brasil: Prefeitura de Rio Preto</title><link>https://www.gazetaderiopreto.com.br/cidades/noticia/2025/06/ataque-cibernetico-tira-telefone-do-samu-do-ar-em-rio-preto.html</link><description>🚨 Ataque de Ransomware no Brasil
+
+🏛️ Vítima: Prefeitura de Rio Preto
+📅 Data do ataque: 05/06/2025
+📰 Título: Ataque cibernético tira telefone do SAMU do ar em Rio Preto
+🌐 Domínio: riopreto.sp.gov.br
+
+📄 Resumo:
+Um atai cibernético paralisou o sistema de prefeitura do Rio Preto, afetando os serviços de saúde, incluindo o Samu, cujo telefone está fora de serviço. Atualmente, os serviços são realizados manualmente, o que causa atrasos e filas. A prefeitura trabalha para restaurar os serviços o mais rápido possível.
+
+🔗 Fonte: https://www.gazetaderiopreto.com.br/cidades/noticia/2025/06/ataque-cibernetico-tira-telefone-do-samu-do-ar-em-rio-preto.html
+
+#resenhainforma #ransomware #ResenhacyberGD #RedTeam #BlueTeam
+
+Siga https://www.linkedin.com/company/resenhacyber pra mais</description><pubDate>Thu, 05 Jun 2025 14:01:58 +0000</pubDate></item><item><title>A campanha de phishing usa e -mails de booking.com Fake.com para entregar malware</title><link>https://www.infosecurity-magazine.com/news/phishing-fake-bookingcom-emails/</link><description>
+    🔒 A campanha de phishing usa e -mails de booking.com Fake.com para entregar malware
     
-    📄 Um relatório sobre o mercado russo da Web Dark mostrou que o Acreed emergiu como o líder Infotealer
-    
-    #cibersegurança #infosec #notícias #resenhacyber
-    
-    Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Tue, 03 Jun 2025 18:01:44 +0000</pubDate></item><item><title>#INFOSEC2025: broca de ransomware para destacar os riscos cibernéticos de utilidade da água na 'Operação 999'</title><link>https://www.infosecurity-magazine.com/news/infosec2025-ransomware-drill-water/</link><description>
-    🔒 #INFOSEC2025: broca de ransomware para destacar os riscos cibernéticos de utilidade da água na 'Operação 999'
-    
-    📄 Semperis sediará uma simulação imersiva de ransomware focada nas concessionárias de água durante a infossegurança Europa 2025
-    
-    #cibersegurança #infosec #notícias #resenhacyber
-    
-    Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Tue, 03 Jun 2025 18:01:44 +0000</pubDate></item><item><title>Campanha Cryptojacking tem como alvo servidores DevOps, incluindo Nomad</title><link>https://www.infosecurity-magazine.com/news/cryptojacking-campaign-devops/</link><description>
-    🔒 Campanha Cryptojacking tem como alvo servidores DevOps, incluindo Nomad
-    
-    📄 O Wiz encontra um novo grupo de ameaças que executa a campanha Cryptojacking por meio de ativos de DevOps explorados e incorretos
+    📄 Uma campanha de phishing spoofing booking.com foi observada direcionada ao setor de hospitalidade, usando clickfix para instalar malware
     
     #cibersegurança #infosec #notícias #resenhacyber
     
     Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Tue, 03 Jun 2025 18:01:43 +0000</pubDate></item><item><title>A campanha sofisticada de malware tem como alvo o Windows e os sistemas Linux</title><link>https://www.infosecurity-magazine.com/news/malware-campaign-targets-windows/</link><description>
-    🔒 A campanha sofisticada de malware tem como alvo o Windows e os sistemas Linux
+    </description><pubDate>Thu, 05 Jun 2025 14:01:53 +0000</pubDate></item><item><title>#INFOSEC2025: A preocupação cresce com os riscos de segurança da IA ​​agêntica</title><link>https://www.infosecurity-magazine.com/news/infosec2025-agentic-ai-risks/</link><description>
+    🔒 #INFOSEC2025: A preocupação cresce com os riscos de segurança da IA ​​agêntica
     
-    📄 Uma nova campanha de malware direcionada ao Windows e Linux Systems foi identificada, implantando ferramentas para roubo de evasão e credencial
-    
-    #cibersegurança #infosec #notícias #resenhacyber
-    
-    Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Tue, 03 Jun 2025 18:01:43 +0000</pubDate></item><item><title>Novas vulnerabilidades do Linux expõem hashes de senha via dumps do núcleo</title><link>https://www.infosecurity-magazine.com/news/linux-vulnerabilities-expose/</link><description>
-    🔒 Novas vulnerabilidades do Linux expõem hashes de senha via dumps do núcleo
-    
-    📄 Duas falhas de divulgação de informações locais nas ferramentas de relatórios de acidentes do Linux foram identificadas expondo dados do sistema aos atacantes
+    📄 Os sistemas Agentic AI podem ameaçar a segurança e a privacidade dos dados, a menos que as organizações testem cada modelo e componente
     
     #cibersegurança #infosec #notícias #resenhacyber
     
     Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Tue, 03 Jun 2025 18:01:43 +0000</pubDate></item><item><title>#INFOSEC2025: Metade das empresas sofre dois incidentes da cadeia de suprimentos no ano passado</title><link>https://www.infosecurity-magazine.com/news/half-supply-chain-incidents/</link><description>
-    🔒 #INFOSEC2025: Metade das empresas sofre dois incidentes da cadeia de suprimentos no ano passado
+    </description><pubDate>Thu, 05 Jun 2025 14:01:52 +0000</pubDate></item><item><title>#INFOSEC2025: A simplicidade deve orientar as decisões de compra de segurança cibernética</title><link>https://www.infosecurity-magazine.com/news/infosec2025-cybersecurity/</link><description>
+    🔒 #INFOSEC2025: A simplicidade deve orientar as decisões de compra de segurança cibernética
     
-    📄 Risk Ledger constatou que 90% dos profissionais do Reino Unido vêem a cadeia de suprimentos cibernéticos como uma principal preocupação para 2025
-    
-    #cibersegurança #infosec #notícias #resenhacyber
-    
-    Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Tue, 03 Jun 2025 18:01:42 +0000</pubDate></item><item><title>#INFOSEC2025: VEC ataca assustadoramente eficaz para impulsionar o engajamento</title><link>https://www.infosecurity-magazine.com/news/vec-effective-driving-engagement/</link><description>
-    🔒 #INFOSEC2025: VEC ataca assustadoramente eficaz para impulsionar o engajamento
-    
-    📄 AI anormal descobriu que as taxas de envolvimento com os ataques do VEC em todo
+    📄 Especialistas argumentam que os CISOs devem evitar a duplicação do produto e simplificar sua linguagem para garantir que o orçamento seja gasto com sabedoria
     
     #cibersegurança #infosec #notícias #resenhacyber
     
     Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Tue, 03 Jun 2025 18:01:42 +0000</pubDate></item><item><title>Páginas DocUsign Fake fornecem malware de rato NetSupport em vários estágios</title><link>https://www.infosecurity-magazine.com/news/fake-docusign-pages-deliver-rat/</link><description>
-    🔒 Páginas DocUsign Fake fornecem malware de rato NetSupport em vários estágios
+    </description><pubDate>Thu, 05 Jun 2025 14:01:51 +0000</pubDate></item><item><title>#INFOSEC2025: As redes de suporte à segurança cibernética são muito fragmentadas para pequenas e médias empresas, dizem especialistas</title><link>https://www.infosecurity-magazine.com/news/infosec2025-cybersecurity-support/</link><description>
+    🔒 #INFOSEC2025: As redes de suporte à segurança cibernética são muito fragmentadas para pequenas e médias empresas, dizem especialistas
     
-    📄 A campanha de malware usou páginas de documentação falsa para implantar ratos NetSupport através da manipulação da área de transferência
-    
-    #cibersegurança #infosec #notícias #resenhacyber
-    
-    Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Tue, 03 Jun 2025 18:01:41 +0000</pubDate></item><item><title>#INFOSEC2025: Exigente mais de seus fornecedores para aliviar a transição quântica, digamos especialistas</title><link>https://www.infosecurity-magazine.com/news/infosec2025-vendors-quantum/</link><description>
-    🔒 #INFOSEC2025: Exigente mais de seus fornecedores para aliviar a transição quântica, digamos especialistas
-    
-    📄 Os CISOs devem exigir mais de seus fornecedores e usar a regulamentação como um aliado para convencer os membros do conselho a acelerar a transição para a segurança pós-Quantum
+    📄 Especialistas argumentam o caso de "comunidades de apoio" para aumentar a resiliência cibernética do SMB
     
     #cibersegurança #infosec #notícias #resenhacyber
     
     Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Tue, 03 Jun 2025 18:01:41 +0000</pubDate></item><item><title>Plano de orçamento de Trump para cortar quase 1000 empregos na agência cibernética CISA</title><link>https://www.infosecurity-magazine.com/news/trump-cut-nearly-1000-jobs-cisa/</link><description>
-    🔒 Plano de orçamento de Trump para cortar quase 1000 empregos na agência cibernética CISA
+    </description><pubDate>Thu, 05 Jun 2025 14:01:50 +0000</pubDate></item><item><title>#Infosec2025 A tecnologia nativa em nuvem solicita novas abordagens de segurança</title><link>https://www.infosecurity-magazine.com/news/infosec2025-cloudnative-security/</link><description>
+    🔒 #Infosec2025 A tecnologia nativa em nuvem solicita novas abordagens de segurança
     
-    📄 A CISA está enfrentando um corte de US $ 495 milhões, perdendo 1000 funcionários e reduzindo a equipe para 2324
-    
-    #cibersegurança #infosec #notícias #resenhacyber
-    
-    Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Tue, 03 Jun 2025 18:01:40 +0000</pubDate></item><item><title>#INFOSEC2025: A boa segurança cibernética permitiu o ataque surpresa da Ucrânia à Rússia, diz NCSC</title><link>https://www.infosecurity-magazine.com/news/infosec2025-ukraine-drone-attack/</link><description>
-    🔒 #INFOSEC2025: A boa segurança cibernética permitiu o ataque surpresa da Ucrânia à Rússia, diz NCSC
-    
-    📄 A cibersegurança eficaz teve um papel fundamental para o ataque de drones na Ucrânia a bombardeiros estratégicos russos, um especialista líder em segurança do governo afirmou
+    📄 Mudar para a arquitetura nativa em nuvem e as plataformas modernas está permitindo que as empresas automatizem operações e melhorem a segurança
     
     #cibersegurança #infosec #notícias #resenhacyber
     
     Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Tue, 03 Jun 2025 18:01:40 +0000</pubDate></item><item><title>#INFOSEC2025: O canal preenche a lacuna de habilidades de segurança</title><link>https://www.infosecurity-magazine.com/news/infosec2025-channel-skills-gap/</link><description>
-    🔒 #INFOSEC2025: O canal preenche a lacuna de habilidades de segurança
+    </description><pubDate>Thu, 05 Jun 2025 14:01:49 +0000</pubDate></item><item><title>#Infosec2025: Garantir pontos de extremidade ainda é vital em meio a mudanças de ameaças</title><link>https://www.infosecurity-magazine.com/news/infosec2025-securing-endpoints/</link><description>
+    🔒 #Infosec2025: Garantir pontos de extremidade ainda é vital em meio a mudanças de ameaças
     
-    📄 Os revendedores e os parceiros de canal podem agregar valor, preencher lacunas nas equipes de segurança e oferecer experiência em nicho de mercados
+    📄 O terminal e a segurança da rede ainda são essenciais, mesmo quando os atores maliciosos se voltam para as cadeias, identidades e IA de suprimentos
     
     #cibersegurança #infosec #notícias #resenhacyber
     
     Siga https://www.linkedin.com/company/resenhacyber pra mais
-    </description><pubDate>Tue, 03 Jun 2025 18:01:39 +0000</pubDate></item></channel></rss>
+    </description><pubDate>Thu, 05 Jun 2025 14:01:47 +0000</pubDate></item><item><title>#INFOSEC2025: Sete etapas para a construção de um programa de gerenciamento de vulnerabilidades maduras</title><link>https://www.infosecurity-magazine.com/news/infosec2025-seven-steps/</link><description>
+    🔒 #INFOSEC2025: Sete etapas para a construção de um programa de gerenciamento de vulnerabilidades maduras
+    
+    📄 Na InfoSecurity Europe 2025, Jon Ridyard de Axonius propôs sete melhores práticas para construir processos de gerenciamento de vulnerabilidades maduros
+    
+    #cibersegurança #infosec #notícias #resenhacyber
+    
+    Siga https://www.linkedin.com/company/resenhacyber pra mais
+    </description><pubDate>Thu, 05 Jun 2025 14:01:46 +0000</pubDate></item><item><title>#INFOSEC2025: Defensores e atacantes estão trancados em uma corrida armamentista de IA</title><link>https://www.infosecurity-magazine.com/news/infosec2025-arms-race-ai/</link><description>
+    🔒 #INFOSEC2025: Defensores e atacantes estão trancados em uma corrida armamentista de IA
+    
+    📄 Atores maliciosos estão fazendo mais uso de IA em ataques, mesmo quando os governos procuram aumentar os investimentos da IA
+    
+    #cibersegurança #infosec #notícias #resenhacyber
+    
+    Siga https://www.linkedin.com/company/resenhacyber pra mais
+    </description><pubDate>Thu, 05 Jun 2025 14:01:45 +0000</pubDate></item><item><title>#INFOSEC2025: Ameaças Ators Armaziando dispositivos de hardware para explorar ambientes fortificados</title><link>https://www.infosecurity-magazine.com/news/threat-actors-weaponizing-hardware/</link><description>
+    🔒 #INFOSEC2025: Ameaças Ators Armaziando dispositivos de hardware para explorar ambientes fortificados
+    
+    📄 Grupos sofisticados-estatais e cibercriminosos estão usando insiders para infectar alvos por meio de dispositivos de hardware, apesar da falta de relatórios dessa ameaça
+    
+    #cibersegurança #infosec #notícias #resenhacyber
+    
+    Siga https://www.linkedin.com/company/resenhacyber pra mais
+    </description><pubDate>Thu, 05 Jun 2025 14:01:43 +0000</pubDate></item><item><title>#INFOSEC2025: Conheça seu público para causar impacto, os CISOs dizem aos colegas</title><link>https://www.infosecurity-magazine.com/news/infosec2025-know-your-audience/</link><description>
+    🔒 #INFOSEC2025: Conheça seu público para causar impacto, os CISOs dizem aos colegas
+    
+    📄 Um painel de CISOs da Infosegusturion Europa pediu que seus colegas usassem o gerenciamento de riscos e a comunicação clara para domar uma paisagem cibernética caótica
+    
+    #cibersegurança #infosec #notícias #resenhacyber
+    
+    Siga https://www.linkedin.com/company/resenhacyber pra mais
+    </description><pubDate>Thu, 05 Jun 2025 14:01:42 +0000</pubDate></item><item><title>#INFOSEC2025: As vítimas de ransomware instadas a se envolver para recuperar o controle</title><link>https://www.infosecurity-magazine.com/news/infosec2025-ransomware-victims/</link><description>
+    🔒 #INFOSEC2025: As vítimas de ransomware instadas a se envolver para recuperar o controle
+    
+    📄 O envolvimento com atores de ransomware não significa necessariamente pagamento; Trata -se de obter os melhores resultados, um negociador líder argumentou
+    
+    #cibersegurança #infosec #notícias #resenhacyber
+    
+    Siga https://www.linkedin.com/company/resenhacyber pra mais
+    </description><pubDate>Thu, 05 Jun 2025 14:01:32 +0000</pubDate></item><item><title>#INFOSEC2025: DNS seqüestro, uma grande ameaça cibernética para o governo do Reino Unido</title><link>https://www.infosecurity-magazine.com/news/infosec2025-dns-hijacking-uk/</link><description>
+    🔒 #INFOSEC2025: DNS seqüestro, uma grande ameaça cibernética para o governo do Reino Unido
+    
+    📄 Durante a Infosegurança Europa 2025, Nick Woodcraft, do governo do Reino Unido, compartilhou sua experiência na implementação de medidas para proteger domínios no espaço de nome .gov.uk DNS
+    
+    #cibersegurança #infosec #notícias #resenhacyber
+    
+    Siga https://www.linkedin.com/company/resenhacyber pra mais
+    </description><pubDate>Thu, 05 Jun 2025 14:01:30 +0000</pubDate></item></channel></rss>
