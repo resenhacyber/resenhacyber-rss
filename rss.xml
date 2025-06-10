@@ -1,2 +1,98 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Feed traduzido - ResenhaCyber</title><link>https://www.linkedin.com/company/resenhacyber</link><description>Notícias de cibersegurança traduzidas automaticamente.</description><atom:link href="https://www.linkedin.com/company/resenhacyber" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 10 Jun 2025 17:01:30 +0000</lastBuildDate></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Feed traduzido - ResenhaCyber</title><link>https://www.linkedin.com/company/resenhacyber</link><description>Notícias de cibersegurança traduzidas automaticamente.</description><atom:link href="https://www.linkedin.com/company/resenhacyber" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 10 Jun 2025 17:17:33 +0000</lastBuildDate><item><title>#Infosec2025: Cybersecurity Lessons From Maersk’s Former CISO</title><link>https://www.infosecurity-magazine.com/news/infosec2025-lessons-maersk-ciso/</link><description>
+    🔒 #Infosec2025: Cybersecurity Lessons From Maersk’s Former CISO
+    
+    📄 2017 ransomware attack on shipping company A P Moller Maersk marked a turning point for the cybersecurity industry, according to its former CISO Adam Banks
+    
+    #cibersegurança #infosec #notícias #resenhacyber
+    
+    Siga https://www.linkedin.com/company/resenhacyber pra mais
+    </description><pubDate>Tue, 10 Jun 2025 14:17:42 +0000</pubDate></item><item><title>#Infosec2025: Top Six Cyber Trends CISOs Need to Know</title><link>https://www.infosecurity-magazine.com/news/cyber-trends-cisos-know/</link><description>
+    🔒 #Infosec2025: Top Six Cyber Trends CISOs Need to Know
+    
+    📄 Experts at Infosecurity Europe 2025 highlighted a range of major industry trends, from advanced social engineering techniques to vulnerability exploits
+    
+    #cibersegurança #infosec #notícias #resenhacyber
+    
+    Siga https://www.linkedin.com/company/resenhacyber pra mais
+    </description><pubDate>Tue, 10 Jun 2025 14:17:42 +0000</pubDate></item><item><title>Scattered Spider Uses Tech Vendor Impersonation and Phishing Kits to Target Helpdesks</title><link>https://www.infosecurity-magazine.com/news/scattered-spider-tech-vendor/</link><description>
+    🔒 Scattered Spider Uses Tech Vendor Impersonation and Phishing Kits to Target Helpdesks
+    
+    📄 The ransomware group combines IT vendor impersonation and phishing frameworks like Evilginx to breach its targets
+    
+    #cibersegurança #infosec #notícias #resenhacyber
+    
+    Siga https://www.linkedin.com/company/resenhacyber pra mais
+    </description><pubDate>Tue, 10 Jun 2025 14:17:42 +0000</pubDate></item><item><title>FBI Warns Smart Home Users of Badbox 2.0 Botnet Threat</title><link>https://www.infosecurity-magazine.com/news/fbi-smart-home-users-badbox-20/</link><description>
+    🔒 FBI Warns Smart Home Users of Badbox 2.0 Botnet Threat
+    
+    📄 The FBI says mainly Chinese-made IoT devices pose a threat from Badbox 2.0 malware
+    
+    #cibersegurança #infosec #notícias #resenhacyber
+    
+    Siga https://www.linkedin.com/company/resenhacyber pra mais
+    </description><pubDate>Tue, 10 Jun 2025 14:17:42 +0000</pubDate></item><item><title>US Tries to Claw Back $7m Taken by North Korean IT Workers</title><link>https://www.infosecurity-magazine.com/news/us-7m-taken-by-north-korean-it/</link><description>
+    🔒 US Tries to Claw Back $7m Taken by North Korean IT Workers
+    
+    📄 The Justice Department has filed a civil forfeiture complaint alleging North Korean IT workers amassed $7m+
+    
+    #cibersegurança #infosec #notícias #resenhacyber
+    
+    Siga https://www.linkedin.com/company/resenhacyber pra mais
+    </description><pubDate>Tue, 10 Jun 2025 14:17:42 +0000</pubDate></item><item><title>Trump Administration Revises Cybersecurity Rules, Replaces Biden and Obama Orders</title><link>https://www.infosecurity-magazine.com/news/trump-new-cyber-executive-order/</link><description>
+    🔒 Trump Administration Revises Cybersecurity Rules, Replaces Biden and Obama Orders
+    
+    📄 A new Trump Executive Order limits the use of cybersecurity-related sanctions only against foreign malicious actors
+    
+    #cibersegurança #infosec #notícias #resenhacyber
+    
+    Siga https://www.linkedin.com/company/resenhacyber pra mais
+    </description><pubDate>Tue, 10 Jun 2025 14:17:42 +0000</pubDate></item><item><title>Novos malware do limpador têm como alvo a infraestrutura ucraniana</title><link>https://www.infosecurity-magazine.com/news/pathwiper-malware-targets-ukraine/</link><description>
+    🔒 Novos malware do limpador têm como alvo a infraestrutura ucraniana
+    
+    📄 New Pathwiper malware alvo da infraestrutura crítica ucraniana, usando ferramentas legítimas para ataques cibernéticos
+    
+    #cibersegurança #infosec #notícias #resenhacyber
+    
+    Siga https://www.linkedin.com/company/resenhacyber pra mais
+    </description><pubDate>Tue, 10 Jun 2025 14:17:41 +0000</pubDate></item><item><title>A falha do plug -in Payu permite a aquisição da conta em 5000 sites do WordPress</title><link>https://www.infosecurity-magazine.com/news/payu-plugin-flaw-wordpress-account/</link><description>
+    🔒 A falha do plug -in Payu permite a aquisição da conta em 5000 sites do WordPress
+    
+    📄 Vulnerabilidade no plug -in Payu CommercePro permite seqüestro de contas em milhares de sites do WordPress
+    
+    #cibersegurança #infosec #notícias #resenhacyber
+    
+    Siga https://www.linkedin.com/company/resenhacyber pra mais
+    </description><pubDate>Tue, 10 Jun 2025 14:17:40 +0000</pubDate></item><item><title>Gigante de alimentos por atacado UNCI admite violação de segurança</title><link>https://www.infosecurity-magazine.com/news/wholesale-food-giant-unfi-admits/</link><description>
+    🔒 Gigante de alimentos por atacado UNCI admite violação de segurança
+    
+    📄 O UNFI diz que está investigando atividade de rede não autorizada e que algumas operações são afetadas
+    
+    #cibersegurança #infosec #notícias #resenhacyber
+    
+    Siga https://www.linkedin.com/company/resenhacyber pra mais
+    </description><pubDate>Tue, 10 Jun 2025 14:17:38 +0000</pubDate></item><item><title>Sentinelone alerta os fornecedores de segurança cibernética de ataques chineses</title><link>https://www.infosecurity-magazine.com/news/sentinelone-cybersecurity-vendors/</link><description>
+    🔒 Sentinelone alerta os fornecedores de segurança cibernética de ataques chineses
+    
+    📄 SentineLone revelou detalhes de duas novas tentativas de intrusão de atores da China-Nexus
+    
+    #cibersegurança #infosec #notícias #resenhacyber
+    
+    Siga https://www.linkedin.com/company/resenhacyber pra mais
+    </description><pubDate>Tue, 10 Jun 2025 14:17:37 +0000</pubDate></item><item><title>Ataques de DDoS no setor financeiro em escala e sofisticação</title><link>https://www.infosecurity-magazine.com/news/ddos-financial-sector-surge/</link><description>
+    🔒 Ataques de DDoS no setor financeiro em escala e sofisticação
+    
+    📄 O setor financeiro foi o setor mais direcionado por ataques distribuídos de negação de serviço (DDoS) em 2024, com um pico em outubro
+    
+    #cibersegurança #infosec #notícias #resenhacyber
+    
+    Siga https://www.linkedin.com/company/resenhacyber pra mais
+    </description><pubDate>Tue, 10 Jun 2025 14:17:36 +0000</pubDate></item><item><title>As escolas de domínio notifica 37.031 da grande violação de dados</title><link>https://www.infosecurity-magazine.com/news/mastery-schools-data-breach/</link><description>
+    🔒 As escolas de domínio notifica 37.031 da grande violação de dados
+    
+    📄 Um ataque de ransomware às escolas de domínio, Filadélfia, comprometeu informações pessoais de 37.031 indivíduos, expondo dados confidenciais
+    
+    #cibersegurança #infosec #notícias #resenhacyber
+    
+    Siga https://www.linkedin.com/company/resenhacyber pra mais
+    </description><pubDate>Tue, 10 Jun 2025 14:17:34 +0000</pubDate></item></channel></rss>
